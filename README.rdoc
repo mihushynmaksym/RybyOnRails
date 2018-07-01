@@ -2,4 +2,4 @@
 
 Ruby on Rails Tutorial: This is first app RubyOnRails
 
-[*Ruby on Rails*](https://rubyonrails.org/)
+[* Ruby on Rails *](https://rubyonrails.org)
